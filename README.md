@@ -1,2 +1,2 @@
 # Sharp7Simplified
-A simple wrapper for Sharp7 to facilitate basic PLC reading/writing
+A lightweight wrapper for Sharp7 by fbaressi to facilitate basic PLC reading/writing for debugging and simple controls.
